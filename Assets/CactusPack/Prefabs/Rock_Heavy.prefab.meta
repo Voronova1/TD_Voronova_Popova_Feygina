@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 51cf289f761cc8e4eab7fd75ddb0e9a0
+labels:
+- rock
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Rock_Heavy.prefab
+  uploadId: 55981

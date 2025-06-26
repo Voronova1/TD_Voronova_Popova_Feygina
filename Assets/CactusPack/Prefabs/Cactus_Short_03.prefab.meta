@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f3716af6cb5b4e249abf036d9fa479c8
+labels:
+- cactus
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Cactus_Short_03.prefab
+  uploadId: 55981

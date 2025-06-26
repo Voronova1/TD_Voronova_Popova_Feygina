@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c1091071aa8b35b43bf14b33bc7f5be6
+labels:
+- rock
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Rock_Large.prefab
+  uploadId: 55981

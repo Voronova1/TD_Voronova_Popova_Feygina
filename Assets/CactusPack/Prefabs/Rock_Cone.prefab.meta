@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 491af40ffa3f3dd47b8f5f5ddc473bf5
+labels:
+- rock
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Rock_Cone.prefab
+  uploadId: 55981

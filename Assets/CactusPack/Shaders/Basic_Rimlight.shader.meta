@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 657a545cf1d761445a05b82613848221
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Shaders/Basic_Rimlight.shader
+  uploadId: 55981

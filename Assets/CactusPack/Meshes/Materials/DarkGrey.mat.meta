@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fcfbc86e7cecc34d9571bcf0024f105
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Meshes/Materials/DarkGrey.mat
+  uploadId: 55981

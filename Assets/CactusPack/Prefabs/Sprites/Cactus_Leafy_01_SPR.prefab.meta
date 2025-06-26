@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6343169fdb7c3e5429ce4b6928d1636a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Sprites/Cactus_Leafy_01_SPR.prefab
+  uploadId: 55981

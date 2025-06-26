@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 436b19f2e9c0d314d863eac5c1f59fe0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Sprites/Cactus_Short_02_SPR.prefab
+  uploadId: 55981

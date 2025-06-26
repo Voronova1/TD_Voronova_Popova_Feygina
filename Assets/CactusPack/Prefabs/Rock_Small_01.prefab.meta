@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 460c985abbd459b40a6554e606202d00
+labels:
+- rock
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Rock_Small_01.prefab
+  uploadId: 55981

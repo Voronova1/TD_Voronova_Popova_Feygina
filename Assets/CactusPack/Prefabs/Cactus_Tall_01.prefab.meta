@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 13db1d4df6986d047a29eb9a35fb321e
+labels:
+- cactus
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Cactus_Tall_01.prefab
+  uploadId: 55981

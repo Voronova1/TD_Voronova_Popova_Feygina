@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8093a22d87ca55242b463c5692dd3b83
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Meshes/Materials/CactusPack_Atlas.mat
+  uploadId: 55981

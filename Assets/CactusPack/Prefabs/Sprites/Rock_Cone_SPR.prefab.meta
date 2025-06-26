@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a839f37807922074992531fd9663f1f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Sprites/Rock_Cone_SPR.prefab
+  uploadId: 55981

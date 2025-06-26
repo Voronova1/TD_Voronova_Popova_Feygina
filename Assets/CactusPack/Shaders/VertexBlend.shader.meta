@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7d4e0e167d7a814b933e95a889ce941
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Shaders/VertexBlend.shader
+  uploadId: 55981

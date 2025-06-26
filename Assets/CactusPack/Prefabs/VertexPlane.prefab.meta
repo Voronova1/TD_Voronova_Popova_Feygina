@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbb3dfbae8c38e14f9a17c5870e34a41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/VertexPlane.prefab
+  uploadId: 55981

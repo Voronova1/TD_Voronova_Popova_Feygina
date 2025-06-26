@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 310ca53bdf0d8be47ba991c016cc12dc
+labels:
+- cactus
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Cactus_Leafy_03.prefab
+  uploadId: 55981

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b040f51610eb81b49bc5e38862e3191c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11547
+  packageName: Cactus Pack
+  packageVersion: 1.4
+  assetPath: Assets/CactusPack/Prefabs/Sprites/Rock_Large_SPR.prefab
+  uploadId: 55981
